@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="double" for="edge" id="d0"/>
+<graph edgedefault="undirected"><node id="17afxUJouat3fkaaQ9tZrDThxdkXGL4WrM"/>
+<node id="12higDjoCCNXSA95xZMWUdPvXNmkAduhWv"/>
+<node id="1GtkM4wviwohP192tec9g83hd9X5qtbk9j"/>
+<node id="1AbHNFdKJeVL8FRZyRZoiTzG9VCmzLrtvm"/>
+<node id="1CHE5JRfc5mr8ZtVUP7nnsS5HC4bWcXoc6"/>
+<node id="1PZwWEJe5YGx9bzJbEpgXiWLuWnyD2rjLA"/>
+<node id="198aMn6ZYAczwrE5NvNTUMyJ5qkfy4g3Hi"/>
+<node id="18jANvQ6AuVGJnea4EhmXiAf6bHR5qKjPB"/>
+<edge source="17afxUJouat3fkaaQ9tZrDThxdkXGL4WrM" target="1PZwWEJe5YGx9bzJbEpgXiWLuWnyD2rjLA">
+  <data key="d0">1000.0</data>
+</edge>
+<edge source="1CHE5JRfc5mr8ZtVUP7nnsS5HC4bWcXoc6" target="18jANvQ6AuVGJnea4EhmXiAf6bHR5qKjPB">
+  <data key="d0">19.01</data>
+</edge>
+</graph></graphml>
